@@ -1,5 +1,5 @@
-#.files
+# .files
 
----
+___
 
 My dotfiles, enjoy :)
