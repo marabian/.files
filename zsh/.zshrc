@@ -71,7 +71,6 @@ ENABLE_CORRECTION="true"
 plugins=(
     git
     zsh-syntax-highlighting
-    zsh-autosuggestions
 )
 source $ZSH/oh-my-zsh.sh
 
