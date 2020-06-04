@@ -3,7 +3,7 @@
     "vim.useCtrlKeys": false,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
-		"editor.detectIndentation": false,
+    "editor.detectIndentation": false,
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
