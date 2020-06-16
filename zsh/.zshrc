@@ -107,3 +107,4 @@ alias zshconfig="vim ~/.zshrc"
 alias la='ls -lha'
 alias v='vim'
 alias explorer='explorer.exe .'
+alias p='python3'
