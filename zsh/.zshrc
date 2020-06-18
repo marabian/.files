@@ -72,6 +72,7 @@ plugins=(
     git
     zsh-syntax-highlighting
     docker
+    aws
 )
 source $ZSH/oh-my-zsh.sh
 
