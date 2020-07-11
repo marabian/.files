@@ -8,9 +8,10 @@ export ZSH="/home/marabian/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
-#ZSH_THEME='agnoster'
-#DEFAULT_USER=$USER
+#ZSH_THEME="robbyrussell"
+ZSH_THEME="powerlevel10k/powerlevel10k"
+POWERLEVEL9K_MODE="nerdfont-complete"
+# DEFAULT_USER=$USER
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -60,7 +61,7 @@ ENABLE_CORRECTION="true"
 # "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
 # or set a custom format using the strftime function format specifications,
 # see 'man strftime' for details.
-HIST_STAMPS="mm/dd/yy"
+# HIST_STAMPS="mm/dd/yy"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
@@ -96,7 +97,7 @@ source $ZSH/oh-my-zsh.sh
 # export ARCHFLAGS="-arch x86_64"
 
 # Show full directory path in prompt
-RPROMPT='%{$fg[yellow]%}[%D{%L:%M:%S}]'
+# RPROMPT='%{$fg[yellow]%}[%D{%L:%M:%S}]'
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
@@ -111,3 +112,6 @@ alias la='ls -lha'
 alias v='vim'
 alias explorer='explorer.exe .'
 alias p='python3'
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
