@@ -31,7 +31,8 @@
             "colorScheme": "MherScheme",
             "background": "#333333",
             "useAcrylic": true,
-            "fontFace": "Cascadia Mono PL",
+            "fontFace": "FuraMono Nerd Font",
+            "fontSize": 11, 
             "acrylicOpacity": 0.7,
             "cursorShape":"filledBox"
         },
