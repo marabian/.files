@@ -1,7 +1,7 @@
 # .files
 
 
-My dot/conf files, enjoy :)
+My dot files, enjoy :)
 
 Tools I use:
   - **zsh** : <em>sudo apt install zsh</em>
