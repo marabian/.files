@@ -8,4 +8,4 @@ set hlsearch
 
 :imap jj <Esc>
 
-set mouse=r
+set mouse=a
