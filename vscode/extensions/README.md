@@ -2,7 +2,7 @@
 * on windows `code --list-extensions | % { "code --install-extension $_" }`
 
 
-`
+
 code --install-extension 4ops.terraform
 
 code --install-extension DavidAnson.vscode-markdownlint
@@ -50,4 +50,4 @@ code --install-extension vintharas.learn-vim
 code --install-extension vscode-icons-team.vscode-icons
 
 code --install-extension vscodevim.vim
-`
+
