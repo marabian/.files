@@ -15,3 +15,5 @@ Tools I use:
   - **zsh-syntax-highlighting-plugin** : `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
 
   - **pyenv** : https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv
+
+  - **neovim/NvChad**: : [Guide to install](https://www.youtube.com/watch?v=4BnVeOUeZxc)
