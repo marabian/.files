@@ -17,3 +17,5 @@ Tools I use:
   - **pyenv** : https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv
 
   - **neovim/NvChad**: : [Guide to install](https://www.youtube.com/watch?v=4BnVeOUeZxc)
+
+  - **colorls** : https://github.com/athityakumar/colorls
